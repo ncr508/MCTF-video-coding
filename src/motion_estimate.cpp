@@ -2,7 +2,7 @@
  * \file motion_estimate.cpp
  * \author Vicente Gonzalez-Ruiz.
  * \date Last modification: 2015, January 7.
- * \brief Motion estimation.
+ * \brief Motion estimation. 
  */
 
 #include <stdio.h>
